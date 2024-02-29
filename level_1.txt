@@ -1,0 +1,26 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                      |                  X
+X                  bedroom             |     kitchen      X
+X                                      |                  X
+X                                      |                  X
+X                                      |                  X
+X                                      |                  X
+X                                                         X
+X _____________________________   ________________________X
+X                     |                                   X
+X                     |                                   X
+X                     |                           E       X
+X                     |                                   X
+X                                                         X
+X                     |                                   X
+X                     |                                   X
+X                     |_______________________    ________X
+X                     |                                   X
+X      living room    |                                   X
+X                     |                                   X
+X                     |                                   X
+X                     |                                   X
+X                     |                    __   _|        X
+X                     |                   |  | | |        X
+X                     |                                   X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
